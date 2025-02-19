@@ -3,8 +3,7 @@ body {
     font-family: 'barlow', 'sans serif' ;
 }
 
-.navigasi {
-    max-width: 1200px;
+nav {
     margin: 0 auto;
     padding: 20px;
     background-color: white;
@@ -18,7 +17,7 @@ body {
         width: 180px;
     }
 
-    ul {
+    .menu {
         display: flex;
         gap: 20px;
     }
