@@ -54,10 +54,12 @@ nav {
         color: #2E5070;
         font-weight: 600;
         font-size: 56px;
+        margin-bottom: 20px;
     }
     
     p {
         color: #2E5070;
+        line-height: 150%;
     }
 
 }
